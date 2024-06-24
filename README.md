@@ -1,4 +1,4 @@
-# Comic Art Classifier Project
+# Comic Art Classifier
 
 Classify your comic art by art style according to one of three styles: comic, webtoon or manga. 
 
